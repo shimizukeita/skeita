@@ -1,2 +1,3 @@
 # skeita
 print("tsukareta")
+for
