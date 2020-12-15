@@ -1,1 +1,2 @@
 # skeita
+print("tsukareta")
